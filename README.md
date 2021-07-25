@@ -50,7 +50,7 @@ EPLAN是一款关于时间管理的软件。它包含了控制APP应用时间，
 
 #### Affinity Diagram
 在收集意见的同时，我们也根据意见做出了**Affinity Fiagram**，在一定程度上辅助我们进行用户需求的理解。
-<img src="affinity diagram.png" height="300px" alt="Affinity Diagram">
+![image](https://github.com/Kenyank1dd/EPlan/blob/main/day2/affinity%20diagrams.png)
 ### 5.设计
 对于目前得到的用户反馈，我们对原有的设计功能进行了一定的更改并且完善了部分的细节。具体功能有下图所示。
 
@@ -71,7 +71,9 @@ EPLAN是一款关于时间管理的软件。它包含了控制APP应用时间，
 ### 6.Prototype
 我们简单制作了一个纸上测试环节，将基本的使用流程在纸上模拟出来，并邀请参与者进行测试，并得到反馈。
 <video src="Prototype.mp4" controls="" width="500px" alt="Prototype">
+ 
 您的浏览器可能无法打开,可以在我们Project中的Prototype里找到该视频</video>
+
 ### 7.测试
 #### 反馈
 对于我们进行的**Prototype**，小组成员内进行了一定的交流。对于一些较为显著的问题进行了讨论，总结出了产品上一定的功能不足之处。
