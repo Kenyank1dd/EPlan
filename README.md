@@ -7,7 +7,6 @@ EPLAN是一款关于时间管理的软件。它包含了控制APP应用时间，
 在我们小组内成员的日常交流中，我们发现现有的关于时间管理的APP或多或少存在一些问题。首先，监督力度不足，在大多数情况下，监督更多依靠自律，而缺乏其他监督手段来督促使用者完成目标。另外，此类APP在设计上存在一些相对冗杂的功能，在一定程度上背离了APP的初衷，浪费时间的同时降低了用户的使用体验。除此之外，缺乏一些个性化处理的要素，可能令使用者感到乏味，进而导致在长期过程中失去对此APP的兴趣。在此基础上，我们制定了关于此款软件初步的**Value Proposition Canvas**。
 #### Value Proposition Canvas
 <img src="Value Proposition.jpg" alt="Value Proposition Canvas">
-[Value Proposition](https://user-images.githubusercontent.com/77486458/126886989-39770dd3-07de-4194-a721-5ba1cb7f898b.jpg)
 
 ### 3.用户分析
 因为我们的产品指向时间管理，所以我们把软件用户主要定位为当前的学生群体，以及进入职场的白领群体。在确定了产品定位后，我们制作了关于特殊人物的**Persona**，以及其**Empathy Map**，分别把他们命名为张山和李思，把他们分别映射到学生群体以及白领群体。
