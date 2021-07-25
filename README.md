@@ -41,6 +41,7 @@ EPLAN是一款关于时间管理的软件。它包含了控制APP应用时间，
 |C|1|3|2|2|2|2|2|1|2|1|
 |D|1|4|4|4|4|4|4|1|1|2|
 |E|3|2|3|2|2|2|3|2|2|1|
+
 (**Note:前七个问题：5——非常符合；4——大部分符合；3——基本符合；2——大部分不符合；1——完全不符合
 后三个问题：1——是；2：否**)
 
@@ -48,20 +49,23 @@ EPLAN是一款关于时间管理的软件。它包含了控制APP应用时间，
 ####Affinity Diagram
 在收集意见的同时，我们也根据意见做出了Affinity Fiagram，在一定程度上辅助我们进行用户需求的理解。
 <img src="affinity diagram.png" height="300px" alt="Affinity Diagram">
-###5.设计
+### 5.设计
 对于目前得到的用户反馈，我们对原有的设计功能进行了一定的更改并且完善了部分的细节。具体功能有下图所示。
-####基本功能
+#### 基本功能
 <img src="功能1.png" height="200px" alt="基本功能">
 
-####细节改进
+#### 细节改进
 <img src="功能2.png" height="200px" alt="细节改进">
-####框架设计
+
+#### 框架设计
 在这个最为开始的设计中，我们将整个将主页面定义为三个部分，分别为Application Restrictions，Customization，EP Zone。不同页面对应的功能不同，基本情况如下图。
 <img src="sktech.png"  alt="Sketch">
-####用户故事
+
+#### 用户故事
 在已经确定了界面之后，我们设想了一个使用该APP的过程，并用StoryBoard的形式展示出来。
 <img src="StoryBoard.png" alt="StoryBoard">
-###6.Prototype
+
+### 6.Prototype
 我们简单制作了一个纸上测试环节，将基本的使用流程在纸上模拟出来，并邀请参与者进行测试，并得到反馈。
 <video src="Prototype.mp4" controls="" width="500px" alt="Prototype">您的浏览器可能无法打开,可以在我们Project中的Prototype里找到该视频</video>
 ### 7.测试
